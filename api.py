@@ -12,7 +12,7 @@ class TranscribeRequest(BaseModel):
 def transcribe(request: TranscribeRequest):
     try:
         proxy_url = os.getenv("YT_PROXY")  # Exemplo: http://usuario:senha@proxy.decodo.com:porta
-        proxies = [proxy_url] if proxy_url else None
+        proxies = {"http": proxy_url, "https": proxy_url} if proxy_url else None
         transcript = YouTubeTranscriptApi.get_transcript(
             request.video_id,
             proxies=proxies
