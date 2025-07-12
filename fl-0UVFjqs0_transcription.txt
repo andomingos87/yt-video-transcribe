@@ -1,0 +1,432 @@
+Hello everyone. In this video, I'm going
+to take you through some of these new AI
+builders that are blowing up on social
+media right now. I'm talking about tools
+like Lovable, Bolt, and Cursor. I'm
+going to talk you through exactly what
+they are, how I think you can use them
+the best, and what I think is FUD and
+what is actually gold and something that
+you should really take note of to make
+the most of this booming industry, which
+I think is going to 10 times at least in
+the next year alone. If you're not
+familiar with who I am, my name is Adam.
+I'm a top-rated freelancer on Upwork,
+which is where I started my AI and low
+code career. Doing over 50 projects
+there and becoming expert vetted, I
+transitioned into a global low code
+development agency called APG Software.
+And since then, we've developed over 250
+projects in the low code and AI space
+for clients all over the globe. So, I've
+been in this industry for a while. I'm
+pretty familiar with some of the ways
+that people are building these products
+in rapid time frames. And I wanted to
+give you my opinion on exactly what
+these tools are and where I think
+they're going to be headed. So, the way
+I've laid this out is we've got our new
+AI builders on the right of this
+whiteboard here. And I'm going to talk
+through what they are, the benefits,
+some of the trade-offs that exist there
+right now. I'm going to compare that to
+some of the traditional ways of building
+things and also some of the low code
+ways which work and still are really
+popular, but why I think this is
+beneficial in certain areas and this
+approach is beneficial for other areas.
+And then I'll talk you through what I
+think we're going to end up with for
+building really scalable rapid
+applications in the next year or so. So
+I'll go through walk you through the
+pros and cons of each of these and then
+talk through what I think the best stack
+is going to be in the future. And if
+you're someone that's looking to get
+into this space and learn some tools,
+I'd really recommend exploring this kind
+of combination. Now to start off with,
+let's talk about these tools, what
+they're useful for, and can you actually
+build million-doll applications that can
+scale on these tools. Now, what these
+tools are really, really good for is
+rapid prototyping. Now, if you've played
+around with any of these tools and
+you've put a wellthoughtout prompt into
+a tool like Lovable, you'll see a pretty
+incredible response come out. You'll get
+a number of pages generated. They'll be
+mobile responsive. You can click around
+in there and those prototypes used to
+take months just to build. So, what used
+to take months can be done in around
+about a minute these days. And so, this
+is really, really powerful. Now, there's
+a lot of benefits to this and I think
+this is really going to shake up the MVP
+development industry in general and
+there's a number of reasons why
+something like this is preferable to
+what used to be what low code tools are
+used for which was rapid prototyping and
+MVP development. The benefits of this
+over using tool like bubble to build an
+MVP are you get access to your source
+code. Now, we work with a lot of startup
+founders, a lot of which have investors
+or they're in some sort of startup
+accelerator, and having access to the
+source code is really important for them
+because if they were to scale to a
+million-doll application, they don't
+want to be locked into a vendor and not
+have access to their own source code.
+So, whilst I love Bubble, I think it's a
+really powerful tool. One of the things
+that scares a lot of founders from using
+a tool like this is the fact that they
+don't have access to their own source
+code. And if something was to happen to
+a company like Bubble, it may damage
+their application. Now, I don't think
+this is a big issue for anyone that's
+trying to scale an app, and there's a
+million ways you can get around
+something like that. A lot of companies
+trust big CRM platforms and all sorts of
+big platforms to store their data. I
+think that's really something that
+you're going to have to sacrifice in
+your company in some way or another. But
+in saying that, for building a an
+application, this is a really big plus.
+In addition to that, you could make some
+pretty rapid iterations. So you can put
+it out for feedback and these AI
+builders can make changes rapidly. And I
+actually think that pretty soon founders
+will not need software agencies to do
+this MVP testing stage. So typically
+what happens is a founder gets funding,
+they approach a software development
+agency, they go this is our idea and the
+software development agency gets that
+idea and builds the MVP because founders
+often are not that techsavvy and they
+don't know how to convert their idea
+into a tech product. This is going to
+change the game because they can use
+natural language to prompt to some sort
+of AI tool and get an MVP without
+needing the input of a software agency
+at all. Now, there are some red flags
+and I'll talk about that in a second,
+but MVP development and validating ideas
+is about to be something that's
+accessible to anybody and can be done in
+just a couple of minutes, which is an
+absolute gamecher to how things have
+been operating for the past 20 years.
+And what low code solutions like bubble
+were trying to do was enable people who
+had no tech skills to build apps. In
+saying that though tech is very
+complicated and if you don't understand
+the fundamentals of how tech works, you
+are still going to have trouble using
+building scalable applications using a
+tool like bubble because it gives you
+the customization to build scalable apps
+but you need to understand how to set
+tech up properly because what you can
+easily do if you're not familiar with
+tech is build what they call spaghetti
+code or spaghetti apps. So apps that are
+built in a way that is not scalable and
+workflows and and your database
+structure and everything is not built in
+a scalable way and early stage founders
+who haven't been in the tech industry
+for a while tend to make a lot of those
+critical mistakes. And what I can see
+happening here is that being magnified
+because these founders are generating
+applications. They don't actually
+understand what's being done in the
+background. They don't understand the
+code that they're generating. And so
+whilst this is going to be awesome for
+building MVPs, building scalable
+applications on top of that is where the
+challenge is going to be. And so what
+I've done up here is I've said 0 to 0.8
+very very quickly, which is awesome. And
+for getting just a couple users in your
+local area or validating a market with
+some beta users, this is probably going
+to be enough. But from getting from 10
+users to 100, a,000, 10,000, whatever
+the case is, that's going to be a real
+challenge on tools like Lovable Bolt and
+Cursor at the moment. Now, I'm not
+saying that that's not going to change
+possibly in the next couple months, but
+currently for a founder that has no tech
+skills, they can get to here and then
+they have to hire traditional tech team
+and it's going to be slower from that
+point forward. And some of the things to
+be aware of when building with these
+tools, one is AI errors and rabbit
+holes. So, people that are building with
+this, you can build really, really
+quickly, but you don't understand the
+code that's happening behind the scenes
+and the way certain processes are being
+undertaken. And what can happen there is
+you can have some pretty serious issues
+with privacy. So data privacy, who can
+view what data, what data is being
+exposed in the client, what data is not
+being exposed in the client, where data
+is being sent. You might be making a
+number of API requests and you don't
+actually understand what data is being
+sent and received, what's being exposed
+and what's not. So I can see a lot of
+issues popping up at least at the moment
+in the privacy space. And next up is
+rabbit holes with the AI agent. Now you
+might build 0 to 0.8, But then when
+you're trying to set up possibly a third
+party connection to let's say Stripe for
+example or you're trying to make small
+changes sometimes the AI can get really
+confused and it can have trouble
+debugging your issue and fixing your
+code and this leaves founders pretty
+helpless because they're sitting there
+with a whole stack of code that they
+have no idea how it works and being able
+to debug these things is really really
+difficult. So, as the LLMs get better at
+writing code, this issue is going to get
+smaller and smaller and smaller, but it
+does exist currently. And at the end of
+the day, you're still using code. And
+this is what I'm going to talk about in
+terms of the future I think this is
+going. But at the end of the day, you're
+still using code. And software
+developers are expensive. And building
+with code is expensive. The reason for
+that is because it's still slower to
+build with code than to build with
+visual development interfaces like
+Bubble has, especially for its back end.
+It's a lot easier to visually look at
+bubbles backend workflows and understand
+exactly what's happening than to look at
+some code and understand exactly how
+that's performing. So this still has the
+advantage in that space. So to talk
+about where I think app development is
+going to go between these two approaches
+to building apps in the future is I
+think we have three different kinds of
+apps. We have SAS applications. We have
+what I call two-sided marketplaces. And
+we have internal tools and CRM. Almost
+all of the apps that comes through our
+agency door is one of those three
+categories. And in my opinion, I think
+SAS applications and two-sided
+marketplaces will start to get built
+more on tools like Lovable, Bolt, and
+Cursor than on tools like Bubble. And
+the reason for that is because these
+apps are really hit and miss. A lot of
+these apps fail in the first 5 years
+because they're really difficult to get
+off the ground. But if they do get off
+the ground, they can often scale to
+hundreds of thousands or millions of
+users. And so having access to a
+scalable tech stack like Superbase and
+using Lovable for your front end is
+going to be more preferred by founders
+than being locked into some sort of tool
+like Bubble, not getting access to their
+source code and having to deal with a
+backend that is not as efficient as
+something like Superbase and doesn't
+scale as well price-wise. So, I think
+we're going to see MVPs for SAS
+applications and two-sided marketplaces
+going to be really common in this space.
+Where I think tools like Bubble still
+have the advantage is for internal tools
+and CRM. And the reason for that is
+internal tools and CRM typically have a
+couple hundred users, but they're not
+trying to scale to millions of users
+because it's kept internal to a company
+and they're just supposed to process a
+company's internal operations. And
+what's really important in a company's
+internal operations is exactly how the
+data is moved around and stored. And
+what bubble and no code tools still have
+a large advantage over over these tools
+like lovable bolt and cursor is one you
+get truly no code which means you can
+understand what's happening especially
+in your backend workflows a lot easier
+than with a tool like lovable and
+superbase. And the benefit of this is
+companies have really specific
+processes. is that when a certain user
+clicks this button, they want to send
+data to three different separate third
+party tools and then post data into
+their database and then upsert that into
+a vector database and all sorts of
+technical things. And so you really have
+to understand a business's processes and
+be really specific in those backend
+workflows. And that takes a deep
+understanding of processes and it's
+going to be something that's hard to
+communicate to an AI tool like lovable
+bolt and cursor at least at this stage.
+So I think there's still the advantage
+there. The other advantage is that these
+tools handle all of the hosting server
+management. It's one-click deployment.
+And so for an internal company that just
+wants a simple internal tool that's
+going to sit there, it's going to do
+their processes and they want to have as
+little maintenance as possible. I think
+you're still going to have some benefits
+in this area for that industry. And the
+other thing is is a single source of
+truth. So you've got your database, your
+front end, your back end, and even your
+mobile application all sitting in one
+place. It's simple to manage. It's easy.
+It's visual to see. And that's what a
+lot of internal companies are looking
+for. They want simple, easy to manage,
+but still do all of the processes and
+handle all the complexity that is in
+their business. And so for these
+companies, vendor lockin is not as big
+of an issue because they're not
+predicted to have the scale to millions
+of users that typically SAS and
+two-sided marketplaces have to worry
+about if they can get off the ground.
+They just want something that's simple,
+easy to manage, and does what their
+business needs. And so I think tools
+like bubble and no code are still going
+to be pretty strong in that space for
+the foreseeable future. Now that being
+said, what I think could be a really
+powerful benefit in the future and if
+you are looking to get into this space,
+learn some low code tools, learn some ad
+tools and start to sell solutions, a
+stack like this, I think is going to be
+really really powerful in the next few
+months and years. Now what have I got
+here? Where I think these tools like
+Lovable and Cursor are still lacking at
+this current point in time is having a
+really nice and easy to see back-end
+workflow builder that tools like Bubble,
+Make.com, Zapia, and N8N have. So, what
+I think is a really powerful stack is
+using a tool like Lovable for your front
+end to be able to build really modern
+looking user interfaces for all your
+different screen sizes rapidly. Now,
+Lovable is a great solution for your
+front end. Superbase is a great solution
+for your database. It's very scalable.
+It handles authentication. It handles
+whatever you need to handle. It's fairly
+userfriendly and it's easy to use. But
+setting up edge functions and stuff like
+that. You're dealing with code and there
+is a bit of a learning curve there. And
+we've got these tools that have come out
+now like tools like NAN which are
+essentially where you can build backend
+operations to process data. You can
+self-host these solutions and they're
+really powerful for building AI agents
+and integrating AI into your back end.
+So if you were to use some sort of
+backend like NAD, call it via API
+through your tool like Lovable and post
+the data from NAN into a database that's
+in Superbase. I think that's a really
+scalable tech stack. It's fairly no
+code, so it's fairly easy to understand
+and it's really optimized for AI and AI
+development. So something like this I
+think is a really solid tech stack and
+it's something that our business will
+look to shift to if we start to build
+more SAS and two-sided marketplaces in
+the next few months. We're fully aware
+that this is the direction that tech is
+heading. But whether or not now is the
+right time to jump into this, I still
+think there's a couple of months left
+where I'm just waiting for the LLMs to
+get a little bit more accurate, waiting
+for some of these tools to fix a few of
+the little nuances that are currently
+still in them. So, we're still building
+a lot of these solutions with Bubble,
+but we're looking to niche down into
+building internal tools with Bubble cuz
+I think it's still a great place for
+companies to build simple internal
+tools. But SAS and two-sided
+marketplaces and even to internal tools
+in the future, I think a tech stack like
+this is the future of where software
+development is headed and how you can
+build rapid MVPs in one or two weeks.
+So, this is a really, really solid tech
+stack. In saying that, I'd love to hear
+your opinion on where you think the
+future of tech is going for building
+apps for companies from 1 to 100
+employees and rapid growing startups and
+what your opinion on a really solid tech
+stack for building these MVPs on
+scalable infrastructure in just a couple
+of days or weeks. Feel free to let me
+know in the comments what your opinions
+are. If you're interested in staying up
+to date in everything low code and AI,
+feel free to join my completely free
+community in the link in the
+description. We have weekly discussions
+where we talk about all things AI and
+low code. And yeah, I hope you found
+this useful. Let me know in the comments
+your thoughts on the directions that
+this tech is going.
