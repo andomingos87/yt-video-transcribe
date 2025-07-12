@@ -1,3 +1,4 @@
+import os
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -10,8 +11,12 @@ class TranscribeRequest(BaseModel):
 @app.post("/transcribe")
 def transcribe(request: TranscribeRequest):
     try:
-        transcript = YouTubeTranscriptApi.get_transcript(request.video_id)
-        # Junta todos os textos em uma string única
+        proxy_url = os.getenv("YT_PROXY")  # Exemplo: http://usuario:senha@proxy.decodo.com:porta
+        proxies = [proxy_url] if proxy_url else None
+        transcript = YouTubeTranscriptApi.get_transcript(
+            request.video_id,
+            proxies=proxies
+        )
         transcription_text = "\n".join(entry['text'] for entry in transcript)
         return {"video_id": request.video_id, "transcription": transcription_text}
     except Exception as e:
